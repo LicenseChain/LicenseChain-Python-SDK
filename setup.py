@@ -25,7 +25,7 @@ def read_requirements():
 
 setup(
     name="licensechain-sdk",
-    version="1.1.3",
+    version="1.1.4",
     author="LicenseChain",
     author_email="support@licensechain.app",
     description="Official LicenseChain Python SDK for license management and validation",
@@ -44,16 +44,15 @@ setup(
         "License :: Other/Proprietary License",
         "Operating System :: OS Independent",
         "Programming Language :: Python :: 3",
-        "Programming Language :: Python :: 3.8",
-        "Programming Language :: Python :: 3.9",
-        "Programming Language :: Python :: 3.10",
-        "Programming Language :: Python :: 3.11",
+                                "Programming Language :: Python :: 3.11",
         "Programming Language :: Python :: 3.12",
+        "Programming Language :: Python :: 3.13",
+        "Programming Language :: Python :: 3.14",
         "Topic :: Software Development :: Libraries :: Python Modules",
         "Topic :: Internet :: WWW/HTTP :: Dynamic Content",
         "Topic :: Security",
     ],
-    python_requires=">=3.8",
+    python_requires=">=3.11",
     install_requires=read_requirements(),
     extras_require={
         "dev": [
