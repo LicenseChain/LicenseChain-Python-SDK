@@ -25,18 +25,20 @@ def read_requirements():
 
 setup(
     name="licensechain-sdk",
-    version="1.1.4",
+    version="1.1.5",
     author="LicenseChain",
     author_email="support@licensechain.app",
     description="Official LicenseChain Python SDK for license management and validation",
     long_description=read_readme(),
     long_description_content_type="text/markdown",
-    url="https://github.com/LicenseChain/LicenseChain-Python-SDK",
+    url="https://licensechain.app",
     project_urls={
+        "Homepage": "https://licensechain.app",
         "Bug Reports": "https://github.com/LicenseChain/LicenseChain-Python-SDK/issues",
         "Source": "https://github.com/LicenseChain/LicenseChain-Python-SDK",
-        "Documentation": "https://docs.licensechain.app/sdks/python",
+        "Documentation": "https://docs.licensechain.app/en/sdk",
     },
+
     packages=find_packages(),
     classifiers=[
         "Development Status :: 5 - Production/Stable",

@@ -1,7 +1,7 @@
 # LicenseChain Python SDK
 
 [![License](https://img.shields.io/badge/license-Elastic--2.0-blue.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 [![PyPI](https://img.shields.io/pypi/v/licensechain-sdk)](https://pypi.org/project/licensechain-sdk/)
 [![Downloads](https://img.shields.io/pypi/dm/licensechain-sdk)](https://pypi.org/project/licensechain-sdk/)
 
@@ -29,7 +29,7 @@ Official Python SDK for LicenseChain - Secure license management for Python appl
 pip install licensechain-sdk
 
 # Or with specific version
-pip install licensechain-sdk==1.0.0
+pip install licensechain-sdk==1.1.5
 ```
 
 ### Method 2: pipenv
@@ -624,10 +624,10 @@ This project is licensed under the Elastic 2.0 License - see the [LICENSE](LICEN
 
 **Made with ❤️ for the Python community**
 
-[![PyPI Version](https://img.shields.io/pypi/v/licensechain-python-sdk.svg)](https://pypi.org/project/licensechain-python-sdk/)
+[![PyPI Version](https://img.shields.io/pypi/v/licensechain-sdk.svg)](https://pypi.org/project/licensechain-sdk/)
 [![Build Status](https://github.com/LicenseChain/LicenseChain-Python-SDK/workflows/CI/badge.svg)](https://github.com/LicenseChain/LicenseChain-Python-SDK/actions)
-[![Documentation](https://img.shields.io/badge/docs-latest-blue.svg)](https://docs.licensechain.app/sdks/python)
-[![Python Version](https://img.shields.io/pypi/pyversions/licensechain-python-sdk.svg)](https://pypi.org/project/licensechain-python-sdk/)
+[![Documentation](https://img.shields.io/badge/docs-latest-blue.svg)](https://docs.licensechain.app/en/sdk)
+[![Python Version](https://img.shields.io/pypi/pyversions/licensechain-sdk.svg)](https://pypi.org/project/licensechain-sdk/)
 
 The official Python SDK for [LicenseChain](https://licensechain.app) - a comprehensive license management platform. This SDK provides full API access for license validation, user management, application management, and more.
 
@@ -647,17 +647,17 @@ The official Python SDK for [LicenseChain](https://licensechain.app) - a compreh
 
 ### pip
 ```bash
-pip install licensechain-python-sdk
+pip install licensechain-sdk
 ```
 
 ### pipenv
 ```bash
-pipenv install licensechain-python-sdk
+pipenv install licensechain-sdk
 ```
 
 ### poetry
 ```bash
-poetry add licensechain-python-sdk
+poetry add licensechain-sdk
 ```
 
 ## Quick Start

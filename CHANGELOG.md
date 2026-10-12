@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.1.5] - 2026-10-11
+
+- Updated Python version badge to 3.11+ and corrected PyPI Homepage/Documentation project URLs.
+- Replaced obsolete licensechain-python-sdk badge/install references with licensechain-sdk.
+
 ## [1.1.4] - 2026-10-10
 
 - Relicensed public surface under Elastic License 2.0 (ELv2).

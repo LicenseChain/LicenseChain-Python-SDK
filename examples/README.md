@@ -98,6 +98,6 @@ python examples/test_connection.py
 
 ## Need Help?
 
-- **Documentation**: https://docs.licensechain.app/sdks/python
+- **Documentation**: https://docs.licensechain.app/en/sdk
 - **Issues**: https://github.com/LicenseChain/LicenseChain-Python-SDK/issues
 - **Email**: support@licensechain.app
