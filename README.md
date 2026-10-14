@@ -627,11 +627,6 @@ This project is licensed under the Elastic 2.0 License - see the [LICENSE](LICEN
 
 **Made with ❤️ for the Python community**
 
-[![PyPI Version](https://img.shields.io/pypi/v/licensechain-sdk.svg)](https://pypi.org/project/licensechain-sdk/)
-[![Build Status](https://github.com/LicenseChain/LicenseChain-Python-SDK/workflows/CI/badge.svg)](https://github.com/LicenseChain/LicenseChain-Python-SDK/actions)
-[![Documentation](https://img.shields.io/badge/docs-latest-blue.svg)](https://docs.licensechain.app/en/sdk)
-[![Python Version](https://img.shields.io/pypi/pyversions/licensechain-sdk.svg)](https://pypi.org/project/licensechain-sdk/)
-
 The official Python SDK for [LicenseChain](https://licensechain.app) - a comprehensive license management platform. This SDK provides full API access for license validation, user management, application management, and more.
 
 ## Features
