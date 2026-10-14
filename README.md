@@ -4,6 +4,9 @@
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 [![PyPI](https://img.shields.io/pypi/v/licensechain-sdk)](https://pypi.org/project/licensechain-sdk/)
 [![Downloads](https://img.shields.io/pypi/dm/licensechain-sdk)](https://pypi.org/project/licensechain-sdk/)
+[![Python Versions](https://img.shields.io/pypi/pyversions/licensechain-sdk.svg)](https://pypi.org/project/licensechain-sdk/)
+[![CI](https://github.com/LicenseChain/LicenseChain-Python-SDK/actions/workflows/ci.yml/badge.svg)](https://github.com/LicenseChain/LicenseChain-Python-SDK/actions/workflows/ci.yml)
+[![Docs](https://img.shields.io/badge/docs-licensechain.app-blue.svg)](https://docs.licensechain.app/)
 
 Official Python SDK for LicenseChain - Secure license management for Python applications.
 
