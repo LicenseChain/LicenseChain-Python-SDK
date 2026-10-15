@@ -1080,20 +1080,25 @@ python -m build
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
+## 📄 License
 
 This project is licensed under the Elastic License 2.0 (ELv2) — see the [LICENSE](LICENSE) file for details.
 
-## Support
+## 🆘 Support
 
-- 📧 Email: support@licensechain.app
-- 📚 Documentation: https://docs.licensechain.app
-- 🐛 Issues: https://github.com/LicenseChain/LicenseChain-Python-SDK/issues
-- 💬 Telegram: https://t.me/LicenseChainBot
+- **Documentation**: [https://docs.licensechain.app/en/sdk](https://docs.licensechain.app/en/sdk)
+- **Issues**: [GitHub Issues](https://github.com/LicenseChain/LicenseChain-Python-SDK/issues)
+- **Discord**: [LicenseChain Discord](https://discord.gg/licensechain)
+- **Email**: support@licensechain.app
 
+## 🔗 Related Projects
+
+- [LicenseChain Node.js SDK](https://github.com/LicenseChain/LicenseChain-NodeJS-SDK)
+- [LicenseChain Go SDK](https://github.com/LicenseChain/LicenseChain-Go-SDK)
+- [LicenseChain Ruby SDK](https://github.com/LicenseChain/LicenseChain-Ruby-SDK)
 ---
 
-Made with ❤️ by the LicenseChain team
+**Made with ❤️ for the Python community**
 
 ## LicenseChain API (v1)
 
@@ -1109,4 +1114,3 @@ This SDK targets the **LicenseChain HTTP API v1** implemented by the LicenseChai
   - PATCH /licenses/:id/activate
   - PATCH /licenses/:id/extend
   - GET /analytics/stats
-
