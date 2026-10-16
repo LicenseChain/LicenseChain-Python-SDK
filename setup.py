@@ -17,7 +17,7 @@ def read_requirements():
         # Fallback to default requirements if file not found
         return [
             "httpx>=0.24.0",
-            "pydantic>=2.0.0",
+            "pydantic>=2.10.0",
             "typing-extensions>=4.5.0",
         ]
     with open(requirements_path, "r", encoding="utf-8") as fh:
