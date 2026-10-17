@@ -1,7 +1,7 @@
 # Core dependencies
 requests>=2.32.0
 httpx>=0.28.1
-pydantic>=2.10.0
+pydantic>=2.14.1
 typing-extensions>=4.16.0
 
 # Optional dependencies for enhanced functionality
