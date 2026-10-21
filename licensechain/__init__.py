@@ -24,7 +24,7 @@ from .utils import (
     chunk_list, flatten_dict, unflatten_dict
 )
 
-__version__ = '1.0.0'
+__version__ = '1.1.6'
 __author__ = 'LicenseChain'
 __email__ = 'support@licensechain.app'
 

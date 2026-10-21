@@ -7,7 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.6] - 2026-10-20
+
 - Raised minimum floors for `requests`, `pydantic`, `cryptography`, and `PyJWT` to patched Dependabot ranges.
+- Synced package `__version__` with `setup.py` (was stuck at 1.0.0).
+- Scoped pytest to `tests/` so example scripts are not collected as unit tests.
+- CI also runs on the `dev` branch.
 
 ## [1.1.5] - 2026-10-11
 

@@ -25,7 +25,7 @@ def read_requirements():
 
 setup(
     name="licensechain-sdk",
-    version="1.1.5",
+    version="1.1.6",
     author="LicenseChain",
     author_email="support@licensechain.app",
     description="Official LicenseChain Python SDK for license management and validation",

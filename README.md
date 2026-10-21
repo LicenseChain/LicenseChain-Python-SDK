@@ -32,7 +32,7 @@ Official Python SDK for LicenseChain - Secure license management for Python appl
 pip install licensechain-sdk
 
 # Or with specific version
-pip install licensechain-sdk==1.1.5
+pip install licensechain-sdk==1.1.6
 ```
 
 ### Method 2: pipenv
