@@ -138,3 +138,4 @@ Thumbs.db
 *.swp
 *.swo
 .venv/
+.venv-ci/

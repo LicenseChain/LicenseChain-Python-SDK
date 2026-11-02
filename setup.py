@@ -25,7 +25,7 @@ def read_requirements():
 
 setup(
     name="licensechain-sdk",
-    version="1.1.5",
+    version="1.1.6",
     author="LicenseChain",
     author_email="support@licensechain.app",
     description="Official LicenseChain Python SDK for license management and validation",
@@ -43,7 +43,7 @@ setup(
     classifiers=[
         "Development Status :: 5 - Production/Stable",
         "Intended Audience :: Developers",
-        "License :: Other/Proprietary License",
+        "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
         "Programming Language :: Python :: 3",
                                 "Programming Language :: Python :: 3.11",
