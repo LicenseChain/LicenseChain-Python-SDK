@@ -1,6 +1,6 @@
 # LicenseChain Python SDK
 
-[![License](https://img.shields.io/badge/license-Elastic--2.0-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 [![PyPI](https://img.shields.io/pypi/v/licensechain-sdk)](https://pypi.org/project/licensechain-sdk/)
 [![Downloads](https://img.shields.io/pypi/dm/licensechain-sdk)](https://pypi.org/project/licensechain-sdk/)
@@ -1079,7 +1079,7 @@ python -m build
 
 ## 📄 License
 
-This project is licensed under the Elastic License 2.0 (ELv2) — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License (ELv2) — see the [LICENSE](LICENSE) file for details.
 
 ## 🆘 Support
 
